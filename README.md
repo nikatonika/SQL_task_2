@@ -4,18 +4,21 @@
 
 ## Структура проекта
 SQL_TASK_2/
+│
 ├── data/
-│ ├── customer.csv
-│ └── transaction.csv
+│   ├── customer.csv
+│   └── transaction.csv
+│
 ├── screenshots/
-│ ├── screenshot_1.png
-│ ├── screenshot_2.png
-│ ├── screenshot_3.png
-│ ├── ...
-│ └── screenshot_13.png
-└── sql_scripts/
-└── nikatonika.sql
-└── README.md   
+│   ├── screenshot_1.png
+│   ├── screenshot_2.png
+│   ├── screenshot_3.png
+│   └── ...
+│
+├── sql_scripts/
+│   └── nikatonika.sql
+│
+└── README.md
 
 ## Скриншоты
 Скриншоты результатов выполненных запросов включены в директорию screenshots. Ссылки на эти изображения также представлены в комментариях SQL скрипта.
